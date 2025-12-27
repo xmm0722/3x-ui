@@ -8,7 +8,7 @@
 
 ## 一个更好的面板 • 基于Xray Core构建 • 中文优化版
 
-[![](https://img.shields.io/github/v/release/admin8800/3x-ui.svg)](https://github.com/admin8800/3x-ui/releases)
+[![](https://img.shields.io/github/v/release/xmm0722/3x-ui.svg)](https://github.com/admin8800/3x-ui/releases)
 [![](https://img.shields.io/github/actions/workflow/status/admin8800/3x-ui/release.yml.svg)](#)
 [![GO Version](https://img.shields.io/github/go-mod/go-version/admin8800/3x-ui.svg)](#)
 [![Downloads](https://img.shields.io/github/downloads/admin8800/3x-ui/total.svg)](#)
@@ -31,7 +31,7 @@
 ## `安装`&`升级`一键脚本
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/admin8800/3x-ui/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/xmm0722/3x-ui/main/install.sh)
 ```
 ### 备用脚本
 ```
