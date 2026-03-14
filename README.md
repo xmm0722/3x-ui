@@ -8,10 +8,10 @@
 
 ## 一个更好的面板 • 基于Xray Core构建 • 中文优化版
 
-[![](https://img.shields.io/github/v/release/xmm0722/3x-ui.svg)](https://github.com/admin8800/3x-ui/releases)
-[![](https://img.shields.io/github/actions/workflow/status/admin8800/3x-ui/release.yml.svg)](#)
-[![GO Version](https://img.shields.io/github/go-mod/go-version/admin8800/3x-ui.svg)](#)
-[![Downloads](https://img.shields.io/github/downloads/admin8800/3x-ui/total.svg)](#)
+[![](https://img.shields.io/github/v/release/xmm0722/3x-ui.svg)](https://github.com/xmm0722/3x-ui/releases)
+[![](https://img.shields.io/github/actions/workflow/status/xmm0722/3x-ui/release.yml.svg)](#)
+[![GO Version](https://img.shields.io/github/go-mod/go-version/xmm0722/3x-ui.svg)](#)
+[![Downloads](https://img.shields.io/github/downloads/xmm0722/3x-ui/total.svg)](#)
 [![License](https://img.shields.io/badge/license-GPL%20V3-blue.svg?longCache=true)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 > **Disclaimer:** 此项目仅供个人学习交流，请不要用于非法目的，请不要在生产环境中使用。
@@ -35,7 +35,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/xmm0722/3x-ui/main/install.sh)
 ```
 ### 备用脚本
 ```
-bash <(curl -Ls https://cdn.jsdelivr.net/gh/admin8800/3x-ui@main/install.sh)
+bash <(curl -Ls https://cdn.jsdelivr.net/gh/xmm0722/3x-ui@main/install.sh)
 ```
 
 ### 纯IPV6网络部署 
@@ -75,7 +75,7 @@ docker run -itd \
    --network=host \
    --restart=always \
    --name 3x-ui \
-   ghcr.nju.edu.cn/admin8800/3x-ui
+   ghcr.nju.edu.cn/xmm0722/3x-ui
 ```
 
 然后使用默认信息访问面板
@@ -216,7 +216,7 @@ x-ui
       --network=host \
       --restart=always \
       --name 3x-ui \
-      ghcr.io/admin8800/3x-ui
+      ghcr.io/xmm0722/3x-ui
    ```
 然后使用默认信息访问面板
 
@@ -607,4 +607,4 @@ XUI_BIN_FOLDER="bin" XUI_DB_FOLDER="/etc/x-ui" go build main.go
 
 ## Star趋势
 
-[![Stargazers over time](https://starchart.cc/admin8800/3x-ui.svg?variant=adaptive)](https://starchart.cc/admin8800/3x-ui)
+[![Stargazers over time](https://starchart.cc/xmm0722/3x-ui.svg?variant=adaptive)](https://starchart.cc/xmm0722/3x-ui)
